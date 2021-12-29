@@ -5,7 +5,8 @@ You can click the Preview link to take a look at your changes.
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=atorys&theme=nord&fire=white&currStreakNum=lightgreen&currStreakLabel=lightsteelblue&sideNums=lightsteelblue&sideLabels=lightsteelblue&background=333333&hide_border=true&ring=lightsteelblue)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 --->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,27&height=80&section=header&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=68&section=header&fontSize=20)
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/atory?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 <!---

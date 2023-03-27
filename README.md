@@ -19,5 +19,5 @@ You can click the Preview link to take a look at your changes.
  -->
  
  - :thought_balloon: I'm interested in graphics and algorithms
- - 🌱 I’m currently learning C#
+ - 🌱 I’m currently grokking algorithms and learning C++
  - :pencil2: I'm developing games at a small company!

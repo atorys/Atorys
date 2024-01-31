@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 - -->
  
  - :thought_balloon: I'm interested in software architecture!
- - 🌱 I’m currently building event-driven architecture!
+ - 🌱 I’m currently building an event-driven architecture!
  - :pencil2: I'm developing backend at a small gamedev company!
 
 ## My stack:

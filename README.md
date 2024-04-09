@@ -17,9 +17,7 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atorys&repo=Minitalk&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 - -->
  
- - :thought_balloon: I'm interested in software architecture!
- - 🌱 I’m currently building an event-driven architecture!
- - :pencil2: I'm developing backend at a small gamedev company!
+ - :pencil2:: I'm interested in software architecture!
 
 ## My stack:
   - .NET, EF, PostgreSQL, Redis, Quartz, SignalR
